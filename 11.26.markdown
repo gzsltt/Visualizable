@@ -1,3 +1,0 @@
-# Color
-colorbrewer 
-[颜色选择网站](http://colorbrewer2.org/#type=sequential&scheme=Purples&n=3)
